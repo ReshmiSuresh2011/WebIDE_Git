@@ -2,11 +2,7 @@
 	"role":{
 		"name": "MCR_again",
 		"schema_privileges": [{
-		   "privileges": ["SELECT METADATA",
-		    			  "SELECT CDS METADATA",
-		    			  "SELECT",
-		    			  "INSERT"
-		   ]
+		   "privileges": ["SELECT METADATA"
 		}]
 		
 
